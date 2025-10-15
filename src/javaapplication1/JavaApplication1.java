@@ -25,8 +25,11 @@ public class JavaApplication1 extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        Task1 t1 = new Task1();
-        t1.task1();
+        //Task1 t1 = new Task1();
+        //t1.task1();
+        
+        Task2 t2 = new Task2();
+        t2.task2();
     }
     
 }
