@@ -11,7 +11,7 @@ import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
 /**
- *
+ * GitHub link: https://github.com/Edric1234/Lab06_EdricTran.git
  * @author 6289632
  */
 public class JavaApplication1 extends Application {
